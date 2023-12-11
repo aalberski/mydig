@@ -1,0 +1,47 @@
+Input: www.nba.com
+
+Output:
+mydig www.nba.com
+
+QUESTION SECTION:
+www.nba.com. IN A
+
+ANSWER SECTION:
+nba.com 172800 IN NS a1-148.akam.net.
+a1-148.akam.net. 90000 IN A 193.108.91.148
+
+Query Time: 108.29140000000015 ms
+WHEN: 24/02/2022 15:08:03
+
+############################################
+
+Input: roblox.com
+
+Output:
+mydig roblox.com
+
+QUESTION SECTION:
+roblox.com. IN A
+
+ANSWER SECTION:
+roblox.com 172800 IN NS dns1.p06.nsone.net.
+dns1.p06.nsone.net. 86400 IN A 198.51.44.6
+
+Query Time: 112.72439999999983 ms
+WHEN: 24/02/2022 15:49:01 
+
+############################################
+
+Input: stonybrook.edu
+
+Output:
+mydig stonybrook.edu
+
+QUESTION SECTION:
+stonybrook.edu. IN A
+
+ANSWER SECTION:
+stonybrook.edu. 900 IN A 129.49.2.176
+
+Query Time: 256.6649999999999 ms
+WHEN: 24/02/2022 16:11:32
